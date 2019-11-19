@@ -27,6 +27,7 @@ N - number of stalling capillary segments <br/>
 T - number of images in the time series
 
 pO2 Data <br/>
+This is pO2 points information
 
 
 
