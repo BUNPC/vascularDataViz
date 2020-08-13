@@ -28,6 +28,7 @@ T - number of images in the time series
 
 pO2 Data <br/>
 This is pO2 points information
+pO2pts [Nx3] - contains 3D coordinates of pO2 pts in the measured volume.
 
 
 
