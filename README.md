@@ -32,7 +32,7 @@ pO2pts [Nx3] - contains 3D coordinates of pO2 pts in the measured volume. <br/>
 N - number of po2 pts measured
 
 # Output:
-Graph.pO2ptsBO -
+Graph.pO2ptsBO -                            <br/>
 Graph.IntrapO2ptspath -
 
 
